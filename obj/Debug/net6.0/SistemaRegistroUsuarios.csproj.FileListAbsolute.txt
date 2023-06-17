@@ -1,0 +1,15 @@
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\bin\Debug\net6.0\SistemaRegistroUsuarios.exe
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\bin\Debug\net6.0\SistemaRegistroUsuarios.deps.json
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\bin\Debug\net6.0\SistemaRegistroUsuarios.runtimeconfig.json
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\bin\Debug\net6.0\SistemaRegistroUsuarios.dll
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\bin\Debug\net6.0\SistemaRegistroUsuarios.pdb
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\SistemaRegistroUsuarios.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\SistemaRegistroUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\SistemaRegistroUsuarios.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\SistemaRegistroUsuarios.AssemblyInfo.cs
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\SistemaRegistroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\SistemaRegistroUsuarios.dll
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\refint\SistemaRegistroUsuarios.dll
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\SistemaRegistroUsuarios.pdb
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\SistemaRegistroUsuarios.genruntimeconfig.cache
+C:\Users\giova\source\repos\SistemaRegistroUsuarios\obj\Debug\net6.0\ref\SistemaRegistroUsuarios.dll
